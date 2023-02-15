@@ -1,0 +1,8 @@
+Feb 16, 2023 2:32:27 AM task4 main
+INFO: 5.0-2.0=3.00
+Feb 16, 2023 2:41:09 AM task4 main
+INFO: 345.0+12351.0=12696.00
+Feb 16, 2023 2:43:58 AM task4 main
+INFO: 456.76/43.1=10.60
+Feb 16, 2023 2:44:41 AM task4 main
+INFO: 234.0*0.12=28.08
